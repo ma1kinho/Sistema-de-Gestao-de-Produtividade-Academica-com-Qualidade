@@ -34,3 +34,7 @@ Dado o título do projeto, o sistema vai verificar se de fato o projeto existe. 
 
 ### Opção 9 - Obter relatório de produção acadêmica do laboratorio
 Nesta opção, o sistema vai fornecer um relatório de produçao acadêmica do laboratório, contendo: número de colaboradores, número de projetos em elaboração, número de projetos em andamento, número de projetos concluídos, número total de projetos e número de produção acadêmica por tipo de produção.
+
+## Mudanças no sistema:
+### Padrões de projeto 
+Foi
