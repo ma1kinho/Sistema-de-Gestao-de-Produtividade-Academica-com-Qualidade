@@ -1,10 +1,10 @@
 # Sistema-de-Gestao-de-Produtividade-Academica-com-Qualidade
 Projeto de Desenvolvimento OO da disciplina de Projeto de Software
 
-Instruções de execução do sistemama:
+# Instruções de execução do sistemama:
 Digitar todas as informações sempre sem caracteres especiais ou acentos. Os nomes dos participantes sempre devem estar completos. Não pode haver mais de um projeto com o mesmo título.
 
-Como funciona:
+# Como funciona:
 Opção 0 - Fechar o programa
 Termina a execução e fecha o programa.
 
